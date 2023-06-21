@@ -39581,7 +39581,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Gardenia
+  m_text: Aurora
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b4c90c7dfc88dbc438a1119da04b75b0, type: 2}
   m_sharedMaterial: {fileID: 4411225317921107268, guid: b4c90c7dfc88dbc438a1119da04b75b0, type: 2}
